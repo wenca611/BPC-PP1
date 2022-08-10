@@ -1,5 +1,6 @@
 # BPC-PP1
 Počítačové programování 1
+Projekt: Základní/Vědecká grafická kalkulačka
 
 ## Finální projekt:
 * [Projekt](calc.m)
