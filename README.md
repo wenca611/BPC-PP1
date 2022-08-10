@@ -10,7 +10,7 @@
 * Nastavitelný jazyk: EN/CZECH
 * Graf: On/Off
 * Typ: Klasická/Vědecká
-* Optimalizace vykreslování grafu: On/Off
+* Optimalizace vykreslování grafu: On/Off (po zapnutí vygeneruje graf z intervalu bez postupného přidávání hodnot)
 * Temný mód: On/Off
 
 ## Vykreslování grafů
