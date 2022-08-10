@@ -19,6 +19,6 @@
 * Funkce se mohou vkládat do dalších funkcí, avšak interval může být jen jeden
 
 * Obrázky:
-* ![Obrázky](images/1.jpg)
-* ![Obrázky](images/2.jpg)
-* ![Obrázky](images/3.jpg)
+# ![Obrázky](images/1.jpg)
+# ![Obrázky](images/2.jpg)
+# ![Obrázky](images/3.jpg)
