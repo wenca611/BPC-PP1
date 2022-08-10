@@ -18,7 +18,9 @@
 * Tento interval se dá dát do různých funkcí a tím vykreslí danou funkci nad daným intervalem, př.: 10*sin(-pi:pi/8:pi)
 * Funkce se mohou vkládat do dalších funkcí, avšak interval může být jen jeden
 
-Obrázky:
+* Obrázky:
 ![Obrázky](images/1.jpg)
+
 ![Obrázky](images/2.jpg)
+
 ![Obrázky](images/3.jpg)
